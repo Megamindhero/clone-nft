@@ -3,3 +3,5 @@
 ## name of site is btcmachine.
 
 modified
+
+oops, forgot to add these
